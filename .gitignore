@@ -1,0 +1,25 @@
+# Python
+.venv/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables (never commit credentials)
+.env
+
+# Data structure
+data/
+
+# Version copies of working files and outputs
+notebooks/
+exports/
+outputs/
+sql/
+
+# OS
+.DS_Store
+Thumbs.db
