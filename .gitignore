@@ -6,13 +6,14 @@ __pycache__/
 *.pyo
 
 # Jupyter
-.ipynb_checkpoints/
+# .ipynb_checkpoints/
 
 # Environment variables (never commit credentials)
 .env
 
 # Data structure
 data/
+checkpoints/
 
 # Version copies of working files and outputs
 notebooks/
